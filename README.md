@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=ademkesim&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademkesim&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ademkesim/github-readme-stats)
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=ademkesim&count-private=true&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademkesim&count-private=true&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ademkesim/github-readme-stats)
