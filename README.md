@@ -21,5 +21,15 @@ Here are some ideas to get you started:
 <hr/>
 <h4 align="center">I am a Full Stack Web Developer at Ritimsoft. I like to Code, Design and Innovations. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<h3>🔥 Streak Stats</h1>
+
+## 🔥 Streak Stats
 <p align="center"><img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=ademkesim&theme=algolia" alt="ademkesim"  /></p>
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/adem-kesim"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/ademkesim"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="mailto:ademkesim34@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://www.instagram.com/adem.kesim"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.facebook.com/adem.kesim.547"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+</p>
