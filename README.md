@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer;Full+Stack+Web+Developer;React%20|%20.Net+Core%20|%20Python%20;Software%20Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Full Stack Web Developer at Ritimsoft. I like to Code, Research and Innovations. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a Full Stack Web Developer at LC Waikiki. I like to Code, Research and Innovations. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 ## 🔥 Streak Stats
